@@ -1,0 +1,27 @@
+{
+  "name": "home-advisor",
+  "version": "1.0.0",
+  "description": "My good Nuxt.js project",
+  "author": "arivi",
+  "private": true,
+  "engines": {
+    "node": ">=6.11",
+    "npm": ">=5.6.0"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "bootstrap-vue": "^2.0.0",
+    "bootstrap": "^4.1.3",
+    "@nuxtjs/axios": "^5.3.6",
+    "express": "^4.17.1",
+    "nuxt-edge": "^2.10.3-26231049.f54e9b21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/preset-env": "^7.7.1",
+    "node-sass": "^4.13.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "sass-loader": "^8.0.0",
+    "uglifyjs-webpack-plugin": "^2.2.0"
+  }
+}
