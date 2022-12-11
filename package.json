@@ -13,7 +13,7 @@
     "bootstrap-vue": "^2.0.0",
     "bootstrap": "^4.1.3",
     "@nuxtjs/axios": "^5.3.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nuxt-edge": "^2.10.3-26231049.f54e9b21"
   },
   "devDependencies": {
